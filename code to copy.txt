@@ -1,0 +1,5 @@
+cd C:\Users\admin\Documents
+dir
+python my_discord_bot.py
+python discord_mlbb.py
+
